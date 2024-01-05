@@ -49,4 +49,4 @@ This motto encapsulates our teamwork and the innovative approach we bring to eac
 This PoC is for educational purposes only. We do not encourage or condone the unauthorized bypassing of security systems.
 
 ## Contact
-For more information or inquiries, please reach out to darkmqn121, devblluettw, or _luxmaster.
+For more information or inquiries, please reach out to _luxmaster.
