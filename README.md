@@ -1,8 +1,8 @@
-# Kernel Driver Authentication Bypass PoC - Vanguard Fucker
+# Kernel Driver Authentication Bypass PoC - No Mapper Required - Vanguard Fucker
 
 ## Overview
 
-This project is a proof of concept (PoC) showcasing how we successfully bypassed a kernel driver's authentication system. The entire process was completed in less than 24 hours by a collaborative effort of our skilled team: darkmqn121, devblluettw, and _luxmaster.
+This project is a proof of concept (PoC) showcasing how we successfully bypassed a signed kernel driver's authentication system. The entire process was completed in less than 24 hours by a collaborative effort of our skilled team: darkmqn121, devblluettw, and _luxmaster.
 
 ## How to Use
 
