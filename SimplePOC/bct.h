@@ -54,9 +54,9 @@ public:
 		);
 		DWORD BytesReturned = 0;
 		DeviceIoControl(driverHandler, 0x2224A0u, &InBuffer, 0xA8u, 0i64, 0, &BytesReturned, 0i64);
-
-		ULONGLONG OutBuffer = 0i64;
-		DeviceIoControl(driverHandler, 0x2224A4u, 0i64, 0, &OutBuffer, 0x44u, &BytesReturned, 0i64);
+		//tested and no need 
+		/*ULONGLONG OutBuffer = 0i64;
+		DeviceIoControl(driverHandler, 0x2224A4u, 0i64, 0, &OutBuffer, 0x44u, &BytesReturned, 0i64);*/
 	}
 	
 };
