@@ -5,14 +5,15 @@ int main()
 {
     
     /// made by darkmqn121, devblluettw, _luxmaster
-   
     driver.initdriver();
-  
 
-    /// u can use buttons to click example 0x1 left click , but u need release button with 0x2 in last parametter
-    driver.mouse_event(222, 222,0);
-    Sleep(1000);
-    driver.mouse_event(-222, -222,0);
+    // Simulate a Left Click
+    // 0x1 = Left Click Down
+    // 0x2 = Left Click Up
+    // driver.mouse_event(0, 0, 0x1);
+    // driver.mouse_event(0, 0, 0x2);
+    
+    driver.mouse_event(100, 100, 0);
    
     return 0;
 }
